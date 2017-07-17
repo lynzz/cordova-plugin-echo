@@ -1,0 +1,4 @@
+<feature name="Echo">
+    <param name="android-package" value="<full_name_including_namespace>" />
+    <param name="onload" value="true" />
+</feature>
