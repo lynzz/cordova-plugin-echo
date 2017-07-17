@@ -29,3 +29,4 @@ private void echo(String message, CallbackContext callbackContext) {
         callbackContext.error("Expected one non-empty string argument.");
     }
 }
+}
